@@ -1,0 +1,25 @@
+/* Start Global Styles */
+body{
+    font-size: 16px;
+    line-height: 1.5;
+    overflow-x: hidden;
+}
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+a{
+    
+}
+/* End Global Styles */
+
+/* Start Header */
+.header{
+    background-color: #ccc;
+    padding: 20px 15px;
+}
+/* End Header */
